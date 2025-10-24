@@ -1,12 +1,9 @@
 quic://ad.h.hlmg.tech
 quic://ad.hlmg.tech
-quic://ad.zt.hlmg.tech
 tls://ad.h.hlmg.tech
 tls://ad.hlmg.tech
-tls://ad.zt.hlmg.tech
 https://ad.hlmg.tech/dns-query
 https://ad.h.hlmg.tech/dns-query
-https://ad.zt.hlmg.tech/dns-query
 [/0.zone/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 180.184.1.1
 [/00.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 180.184.1.1
 [/000.link/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 180.184.1.1
