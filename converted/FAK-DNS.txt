@@ -1,8 +1,6 @@
 quic://ad.zt.hlmg.tech
 tls://ad.zt.hlmg.tech
 https://ad.zt.hlmg.tech/dns-query
-h3://dns.google/dns-query
-tls://dns.google
 h3://cloudflare-dns.com/dns-query
 tls://one.one.one.one
 https://doh.opendns.com/dns-query
