@@ -1,6 +1,6 @@
-quic://ad.hlmg.tech
-tls://ad.hlmg.tech
-https://ad.hlmg.tech/dns-query
+quic://ad.zt.hlmg.tech
+tls://ad.zt.hlmg.tech
+https://ad.zt.hlmg.tech/dns-query
 h3://dns.google/dns-query
 tls://dns.google
 h3://cloudflare-dns.com/dns-query
