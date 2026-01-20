@@ -1,8 +1,4 @@
-quic://ad.xg.hlmg.tech
-tls://ad.xg.hlmg.tech
 https://ad.xg.hlmg.tech/dns-query
-quic://ad.zt.hlmg.tech
-tls://ad.zt.hlmg.tech
 https://ad.zt.hlmg.tech/dns-query
 h3://cloudflare-dns.com/dns-query
 tls://one.one.one.one
