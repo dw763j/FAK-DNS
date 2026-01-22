@@ -3,6 +3,7 @@ https://ad.zt.hlmg.tech/dns-query
 h3://cloudflare-dns.com/dns-query
 tls://one.one.one.one
 https://doh.opendns.com/dns-query
+h3://mozilla.cloudflare-dns.com/dns-query
 [/0.zone/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/00.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/000.link/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
