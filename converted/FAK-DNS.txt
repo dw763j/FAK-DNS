@@ -2,7 +2,6 @@ https://ad.xg.hlmg.tech/dns-query
 https://ad.zt.hlmg.tech/dns-query
 h3://cloudflare-dns.com/dns-query
 tls://one.one.one.one
-https://doh.opendns.com/dns-query
 h3://mozilla.cloudflare-dns.com/dns-query
 [/265.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/2mdn-cn.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
