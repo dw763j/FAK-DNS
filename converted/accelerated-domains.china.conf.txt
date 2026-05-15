@@ -1649,7 +1649,6 @@
 [/11wow.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/11xotn7p.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/11yinyuan.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/11zhang.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/12.xn--vhquv/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/120.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/1204cm.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -2205,7 +2204,6 @@
 [/16hyt.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/16ker.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/16lao.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/16map.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/16p.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/16pic.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/16rd.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -4223,7 +4221,6 @@
 [/363u.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/364000.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/365.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/365.hk/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/36500.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/36500.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/365128.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -6395,7 +6392,6 @@
 [/546709.cc/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/5467b.vip/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/54780.org/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/54948888.vip/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/5499.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/5499ok.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/54ak.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -8028,7 +8024,6 @@
 [/777biubiu.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/777dd.life/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/777e.store/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/777eee888eee.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/777haoka.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/777lala.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/777moban.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -9932,7 +9927,6 @@
 [/9dwork.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/9e707bdb763386bf.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/9eacc080d10291.beer/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/9ead.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/9eae58cbc333acf8.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/9earth.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/9efca2b9a1009.beer/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -12600,6 +12594,7 @@
 [/anrenxmed.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/anrlm.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/anruichina.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
+[/anruidm.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/ansendun.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/anshahouse.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/anshibuff.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -14670,6 +14665,7 @@
 [/bajintech.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/baka.im/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/baka.plus/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
+[/bakapiano.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/bakaxl.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/bakbitionb.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/bakclass.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -25221,7 +25217,6 @@
 [/coinglo.store/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/coinhaven.store/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/coinnice.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/coinrobotics.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/coins-carnival.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/coinsky.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/coinvs.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -27702,7 +27697,6 @@
 [/dabaise.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dabangong.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dabangsoft.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/dabanke.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dabao123.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dabao22.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dabaoge.host/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -30409,7 +30403,6 @@
 [/dodjoy.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dodo8.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dodobook.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/dodoca.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dodoeasy.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dodoedu.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dodoh5.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -30463,7 +30456,6 @@
 [/dolfindnsx.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dolgma.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dolike.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/doll-leaves.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/doll-zone.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dollphoin.site/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/dollun.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -36363,7 +36355,6 @@
 [/fs-czx.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/fs-eliza.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/fs-qiyun.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/fs.microsoft.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/fs0757.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/fs121.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/fs1982.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -38887,7 +38878,6 @@
 [/gjxx.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/gjxzq.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/gjydz.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/gjyfish.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/gjyuxiang.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/gjyys.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/gjzy.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -40055,6 +40045,7 @@
 [/gsgs10086.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/gsgundam.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/gshangju.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
+[/gshdw.cyou/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/gshis.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/gshmhotels.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/gshopper.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -43932,7 +43923,6 @@
 [/hangtu-china.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/hangtunggroup.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/hanguangbaihuo.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/hangugc.monster/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/hanguu.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/hangw.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/hangwei-media.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -51849,7 +51839,6 @@
 [/imyushu.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/imzego.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/imzhanghao.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/imzhongxin.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/imzhuomo.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/imzudian.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/imzy.ink/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -64393,6 +64382,7 @@
 [/lz-veoliawater.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/lz12328.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/lz310.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
+[/lz5.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/lz520.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/lzabcd.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/lzahzn.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -64921,6 +64911,7 @@
 [/maizuo.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/majia99.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/majiamen.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
+[/majianbo.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/majiang520.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/majilive.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/majorbio.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -67780,7 +67771,6 @@
 [/mpnbenefitsrtluat.download.prss.microsoft.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/mpoa.vip/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/mpopkart.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/mpqddg.club/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/mps.live/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/mpserverless.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/mpsoft.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -68238,7 +68228,6 @@
 [/mxpharm.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/mxqe.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/mxria.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/mxsa2178.club/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/mxsyzen.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/mxtcn.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/mxtronics.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -84127,7 +84116,6 @@
 [/sinvta.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/sinyoung.site/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/sinyuan.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/sinyuee.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/sinzk.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/siobp.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/siomxity.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -91178,7 +91166,6 @@
 [/topjoycloud.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/topkhealth.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/topku.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/toplanit.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/toplee.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/toploong.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/topmediai.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -93222,7 +93209,6 @@
 [/uniwaf.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/unixhot.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/unixidc.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/unixtitan.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/unjmz.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/unjs.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/unkzyy3201.vip/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -94421,7 +94407,6 @@
 [/vmax-lighting.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/vmaxhome.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/vmaya.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/vmdns.xyz/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/vmdo.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/vmecum.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/vmengblog.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -103063,7 +103048,6 @@
 [/xxtmail.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/xxw001.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/xxwolo.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
-[/xxx1577.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/xxxbiquge.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/xxxcsf.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/xxxedu.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
@@ -108842,6 +108826,7 @@
 [/zdhaitao.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/zdhuoyunbao.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/zdhyibiao.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
+[/zdhyyy.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/zdiao.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/zdic.net/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
 [/zdjt.com/]quic://dns.alidns.com h3://dns.alidns.com/dns-query https://doh.onedns.net/dns-query tls://dot.onedns.net 180.184.1.1 223.5.5.5
