@@ -1,4 +1,3 @@
-https://ad.xg.hlmg.tech/dns-query
 https://ad.zt.hlmg.tech/dns-query
 h3://cloudflare-dns.com/dns-query
 tls://one.one.one.one
